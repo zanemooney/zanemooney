@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently attending **University of North Alabama, MpRS - Information Technology | (Liberty University DBA Fall '24?)**
 - 📫 How to reach me **zblankenship@una.edu**
-- 👨‍💻 All of my projects are available at **<coming soon>**
 - 📝 Checkout my pubs **coming soon**
 - 📄 Resume **coming soon**
 - ⚡ Fun fact **Squat: 535lbs | Bench: 335lbs**
