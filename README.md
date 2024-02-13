@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Zane RonaldAllan Mooney</h1>
 
 - 🌱 I’m currently attending **University of North Alabama, MpRS - Information Technology | (Liberty University DBA Fall '24?)**
