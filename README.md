@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zane RonaldAllan Mooney</h1>
 
 - 🌱 I’m currently attending **University of North Alabama, MpRS - Information Technology | (Liberty University DBA Fall '24?)**
+- 📚 Aspiring Instructor/Professor
 - 📫 How to reach me **zblankenship@una.edu**
 - 📝 Checkout my pubs: [HERE](https://github.com/zanemooney/publications)
-- 📄 Resume: 
+- 📄 Resume: [Coming Soon]
 - ⚡ Fun fact **Squat: 535lbs | Bench: 335lbs**
 
 <div> <a href="https://www.linkedin.com/in/zane-mooney" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
