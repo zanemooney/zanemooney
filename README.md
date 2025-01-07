@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zane RonaldAllan Mooney</h1>
 
-- 🌱 I’m currently attending **University of North Alabama, MpRS - Information Technology | (Liberty University DBA Fall '24?)**
+- 🌱 I’m currently attending **Liberty University PhD in Organization and Management - Began Fall '24**
 - 📚 Aspiring Instructor/Professor
 - 📫 How to reach me **zblankenship@una.edu**
 - 📝 Checkout my pubs: [HERE](https://github.com/zanemooney/publications)
