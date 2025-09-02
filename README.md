@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zane RonaldAllan Mooney</h1>
 
 - 🌱 I’m currently attending **Liberty University** pursuing my **PhD in Organization and Management**
-- 📚 Aspiring Instructor/Professor
-- 📫 How to reach me **zblankenship@una.edu**
+- 📚 Instructor of Computer Info. Sys. @ Northwest Shoals Community College
+- 📫 How to reach me **zane.mooney@nwscc.edu**
 - 📝 Checkout my pubs: [HERE](https://github.com/zanemooney/publications)
-- 📄 Resume: [HERE - WiP](https://github.com/zanemooney/resume)
+- 📄 Resume: [HERE - WiP/Broken](https://github.com/zanemooney/resume)
 - ⚡ Fun fact **Squat: 535lbs | Bench: 335lbs**
 
 <div> <a href="https://www.linkedin.com/in/zane-mooney" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
